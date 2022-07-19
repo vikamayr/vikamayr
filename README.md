@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=vikamayr&style=flat-square&color=blue" alt=""/>
 <h1>
-  hi there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -36,3 +36,14 @@ Master of Science in Software and Telecommunication technology from Finland.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
+
+---
+
+### :fire: My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikamayr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Research
+- [Master's thesis](http://urn.fi/URN:NBN:fi:jyu-202206033060)
