@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me
 Master of Science in Software and Telecommunication technology from Finland.
-- :gear: Currently working as an DevOps Engineer.
+- :gear: Currently working as a DevOps Engineer.
 - :toolbox: Computer Vision and Machine Learning Professional.
 - :telescope: Exploring job and project opportunities in the field of AI.
 - :green_book: PhD Prospective
