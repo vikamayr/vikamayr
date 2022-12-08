@@ -41,7 +41,7 @@ Master of Science in Software and Telecommunication technology from Finland.
 
 ### :fire: My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikamayr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikamayr&exclude_repo=project_ae&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
