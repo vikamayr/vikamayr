@@ -12,10 +12,9 @@
 
 ### :man_technologist: About Me
 Master of Science in Software and Telecommunication technology from Finland.
-- :gear: Currently working as a DevOps Engineer.
+- :green_book: Currently working as a Doctoral Researcher at Aalto University.
 - :toolbox: Computer Vision and Machine Learning Professional.
 - :telescope: Exploring job and project opportunities in the field of AI.
-- :green_book: PhD Prospective
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/message-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/villemayra/)
 
 ---
