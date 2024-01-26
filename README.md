@@ -41,4 +41,4 @@ Master of Science in Software and Telecommunication technology from Finland.
 ---
 
 ### :writing_hand: Research
-- [Master's thesis](http://urn.fi/URN:NBN:fi:jyu-202206033060)
+- [Evaluating the sensitivity of lightweight object detection models against adversarial perturbations | Master's thesis](http://urn.fi/URN:NBN:fi:jyu-202206033060)
