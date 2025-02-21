@@ -12,9 +12,10 @@
 
 ### :man_technologist: About Me
 Master of Science in Software and Telecommunication technology from Finland.
-- :green_book: Currently working as a Doctoral Researcher at Aalto University.
-- :toolbox: Computer Vision and Machine Learning Professional.
-- :telescope: Exploring job and project opportunities in the field of AI.
+- :computer: Working with Geospatial Deep Learning projects at CGI. 
+- :green_book: Doctoral Researcher in Computer Vision and Machine Learning at Aalto University.
+- :toolbox: Interested in Computer Vision for Geospatial Deep Learning and creating 3D-Visualizations of environment.
+- :telescope: Conducting research in the field of Computer Vision and Deep Learning.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/message-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/villemayra/)
 
 ---
